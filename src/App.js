@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1><code>Shut that shit up!!!!!!!!!</code></h1>
+          <h1><code>React Deployed On AWS</code></h1>
         </p>
         <a
           className="App-link"
@@ -21,9 +21,9 @@ function App() {
         </a>
         <br/>
         <ButtonGroup variant="contained" color="primary" aria-label="contained primary button group">
-          <Button>Da</Button>
-          <Button>Hell</Button>
-          <Button>Up</Button>
+          <Button>THESE</Button>
+          <Button>ARE</Button>
+          <Button>BUTTONS</Button>
         </ButtonGroup>
       </header>
     </div>
