@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1><code>React Deployed On AWS</code></h1>
+          <h2>Made a change bro!</h2>
         </p>
         <a
           className="App-link"
